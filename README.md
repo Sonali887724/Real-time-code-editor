@@ -26,5 +26,5 @@ cd server
 npm install  
 node index.js  
 
-## Author
-Ayesha Kumari
+## Author Name
+Sonali Kumari
